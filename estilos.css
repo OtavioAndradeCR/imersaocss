@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url('../img/fundo.jpg');
+  background-color: LIGHTSKYBLUE;
   background-size: auto 100vh; 
   font-family: 'Source Code Pro', monospace;
   height: 100vh;
