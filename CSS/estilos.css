@@ -9,9 +9,9 @@ body {
   display: block;
   color: whitesmoke;
   background-image: url('../img/fundo.jpg');
-  background-size: auto 100vh;
-  background-position: 45% 65%;
   background-size: cover;
+  background-attachment: fixed;
+  background-position: bottom;
   font-family: 'Source Code Pro', monospace;
   height: 100vh;
   font-size: 12px;
