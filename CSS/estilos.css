@@ -11,8 +11,8 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-position: bottom;
-  font-family: 'Source Code Pro', monospace;
   font-size: 12px;
+  font-family: 'Source Code Pro', monospace;
 }
 
 /* se a tela tiver pelo menos 400px vai carregar estes estilos */
